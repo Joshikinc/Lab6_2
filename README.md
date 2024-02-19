@@ -1,4 +1,5 @@
 # Lab6_2
 Создать сервлет и взаимодействующие с ним пакеты Java-классов и HTML-документов. Готовое веб-приложение разместить на сервере Tomcat (см. "Установка и настройка TomCat").
 Осуществить сортировку введенного пользователем массива целых чисел. Числа вводятся через запятую.
-<img width="1800" alt="Main" src="https://user-images.githubusercontent.com/104515806/234784279-006f5e9c-b0c2-4b7e-9f48-50c2c07f7d39.png">
+<img width="1800" alt="Main" src="Lab6vInt/in.png">
+<img width="1800" alt="Main" src="Lab6vInt/out.png">
